@@ -5,7 +5,7 @@ module.exports = {
     description: '一个喜欢唱歌、技术、二次元的产品经理',
     head: [
     ],
-    base: '/blog/',
+    base: '/blog/', //设置地址
     themeConfig: {
         logo: '/images/logo-72x72.jpg',
         sidebar: false,
