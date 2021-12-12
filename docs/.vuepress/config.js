@@ -5,9 +5,10 @@ module.exports = {
     description: '一个喜欢唱歌、技术、二次元的产品经理',
     head: [
     ],
+    base: '/blog/',
     themeConfig: {
         logo: '/images/logo-72x72.jpg',
-        sidebar:false,
+        sidebar: false,
         nav: [
             { text: '首页', link: '/' },
             {
